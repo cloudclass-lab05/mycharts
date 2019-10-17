@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  eventapp-lab05:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-10-17T17:31:04.2867146+09:00"
+    description: A Helm chart for Kubernetes
+    digest: e661ee69c7c68b95efbc141d7a843c4e725ccc9967559febc3a2616ef2ad5cb7
+    name: eventapp-lab05
+    urls:
+    - https://cloudclass-lab05.github.io/mycharts/eventapp-lab05-0.1.0.tgz
+    version: 0.1.0
+generated: "2019-10-17T17:31:04.2847107+09:00"
